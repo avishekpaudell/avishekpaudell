@@ -50,10 +50,10 @@ Building a strong foundation in networking, system administration, and cloud inf
 ---
 
 ## 🚀 Projects
-
 | Project | Description | Tools |
 |---|---|---|
 | [Cisco Network Security Project](https://github.com/avishekpaudell/Cisco-Network-Security-Project) | Enterprise network with VLANs, OSPF, ACLs, NAT, GRE and Site-to-Site VPN | Cisco Packet Tracer, Cisco IOS |
+| [Cloud Infrastructure Projects](https://github.com/avishekpaudell/Cloud-Infrastructure-Projects) | Bare Metal Arch Linux Server Configuration & Docker Container Lifecycle Management — CLI only | Arch Linux, Docker, Nginx, MySQL, OpenSSH, VMware |
 
 ---
 
