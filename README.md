@@ -55,7 +55,7 @@ Building a strong foundation in networking, system administration, and cloud inf
 
   [![AWS Academy - Cloud Foundations](https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob)](https://www.credly.com/badges/c0c825a3-698a-41ef-950a-a80e85962d9c/public_url)
 
-  ---  
+---  
 
 ## 🚀 Projects
 | Project | Description | Tools |
