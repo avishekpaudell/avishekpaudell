@@ -49,7 +49,7 @@ Building a strong foundation in networking, system administration, and cloud inf
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications and Badge 
 
 - **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
 
