@@ -51,11 +51,15 @@ Building a strong foundation in networking, system administration, and cloud inf
 
 ## 📜 Certifications and Badges
 
-[![AWS Academy - Cloud Foundations](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat&logo=amazon-aws&logoColor=white)](YOUR_AWS_BADGE_LINK)
-[![Cisco CCNA: Introduction to Networks](https://img.shields.io/badge/Cisco-CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=flat&logo=cisco&logoColor=white)](YOUR_CCNA_BADGE_LINK)
+<a href="YOUR_CCNA_CREDLY_URL" target="_blank">
+  <img src="YOUR_CCNA_CREDLY_IMAGE_URL" alt="CCNA: Introduction to Networks" width="150"/>
+</a>
+<a href="YOUR_AWS_CREDLY_URL" target="_blank">
+  <img src="YOUR_AWS_CREDLY_IMAGE_URL" alt="AWS Academy Cloud Foundations" width="150"/>
+</a>
 
-- **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
 - **CCNA: Introduction to Networks** — Cisco Networking Academy, 2026
+- **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
 
 ---  
 
