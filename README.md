@@ -51,15 +51,15 @@ Building a strong foundation in networking, system administration, and cloud inf
 
 ## 📜 Certifications and Badges
 
-<a href="YOUR_CCNA_CREDLY_URL" target="_blank">
-  <img src="YOUR_CCNA_CREDLY_IMAGE_URL" alt="CCNA: Introduction to Networks" width="150"/>
+<a href="https://www.credly.com/badges/c0c825a3-698a-41ef-950a-a80e85962d9c/public_url" target="_blank">
+  <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" width="150"/>
 </a>
-<a href="YOUR_AWS_CREDLY_URL" target="_blank">
-  <img src="YOUR_AWS_CREDLY_IMAGE_URL" alt="AWS Academy Cloud Foundations" width="150"/>
+<a href="https://www.credly.com/badges/0158f6a6-77ee-4e9e-82ad-e7c4a06c2eba/public_url" target="_blank">
+  <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="150"/>
 </a>
 
-- **CCNA: Introduction to Networks** — Cisco Networking Academy, 2026
 - **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
+- **CCNA: Introduction to Networks** — Cisco, 2026
 
 ---  
 
