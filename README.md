@@ -49,11 +49,13 @@ Building a strong foundation in networking, system administration, and cloud inf
 
 ---
 
-## 📜 Certifications and Badge 
+## 📜 Certifications and Badges
+
+[![AWS Academy - Cloud Foundations](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat&logo=amazon-aws&logoColor=white)](YOUR_AWS_BADGE_LINK)
+[![Cisco CCNA: Introduction to Networks](https://img.shields.io/badge/Cisco-CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=flat&logo=cisco&logoColor=white)](YOUR_CCNA_BADGE_LINK)
 
 - **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
-
-  [![AWS Academy - Cloud Foundations](https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob)](https://www.credly.com/badges/c0c825a3-698a-41ef-950a-a80e85962d9c/public_url)
+- **CCNA: Introduction to Networks** — Cisco Networking Academy, 2026
 
 ---  
 
@@ -62,6 +64,7 @@ Building a strong foundation in networking, system administration, and cloud inf
 |---|---|---|
 | [Cisco Network Security Project](https://github.com/avishekpaudell/Cisco-Network-Security-Project) | Enterprise network with VLANs, OSPF, ACLs, NAT, GRE and Site-to-Site VPN | Cisco Packet Tracer, Cisco IOS |
 | [Cloud Infrastructure Projects](https://github.com/avishekpaudell/Cloud-Infrastructure-Projects) | Bare Metal Arch Linux Server Configuration & Docker Container Lifecycle Management — CLI only | Arch Linux, Docker, Nginx, MySQL, OpenSSH, VMware |
+| [CCNA Labs & Final Projects](https://github.com/avishekpaudell/CCNA-Introduction-to-Networks-Labs-) | Hands-on CCNA labs and two projects builds — ACLs, IPv6/RIPng, Frame Relay WAN, VLSM subnetting, SSH hardening, port security | Cisco Packet Tracer, Cisco IOS |
 
 ---
 
