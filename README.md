@@ -69,6 +69,7 @@ Building a strong foundation in networking, system administration, and cloud inf
 | [Cisco Network Security Project](https://github.com/avishekpaudell/Cisco-Network-Security-Project) | Enterprise network with VLANs, OSPF, ACLs, NAT, GRE and Site-to-Site VPN | Cisco Packet Tracer, Cisco IOS |
 | [Cloud Infrastructure Projects](https://github.com/avishekpaudell/Cloud-Infrastructure-Projects) | Bare Metal Arch Linux Server Configuration & Docker Container Lifecycle Management — CLI only | Arch Linux, Docker, Nginx, MySQL, OpenSSH, VMware |
 | [CCNA Labs & Final Projects](https://github.com/avishekpaudell/CCNA-Introduction-to-Networks-Labs-) | Hands-on CCNA labs and two projects builds — ACLs, IPv6/RIPng, Frame Relay WAN, VLSM subnetting, SSH hardening, port security | Cisco Packet Tracer, Cisco IOS |
+| [CCNA SRWE Labs & Assessments](https://github.com/avishekpaudell/CCNA-Switching-Routing-and-Wireless-Essentials-) | Hands-on CCNA SRWE labs and assessments — EtherChannel (LACP/PAgP), STP, Inter-VLAN routing, DHCP, practice exams and final assessment | Cisco Packet Tracer, Cisco IOS |
 
 ---
 
