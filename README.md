@@ -51,25 +51,17 @@ Building a strong foundation in networking, system administration, and cloud inf
 
 ## 📜 Certifications and Badges
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://www.credly.com/badges/c0c825a3-698a-41ef-950a-a80e85962d9c/public_url" target="_blank">
-        <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" width="150"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.credly.com/badges/0158f6a6-77ee-4e9e-82ad-e7c4a06c2eba/public_url" target="_blank">
-        <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="150"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.credly.com/badges/b57f95a7-40fc-4ee1-9fe3-abaa0e2b2fde/public_url" target="_blank">
-        <img src="https://github.com/user-attachments/assets/736b65a0-57da-4ba7-8c11-8fa7538505bb" alt="CCNA: Switching, Routing, and Wireless Essentials Certificate" width="260"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://www.credly.com/badges/c0c825a3-698a-41ef-950a-a80e85962d9c/public_url" target="_blank">
+    <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" height="200"/>
+  </a>
+  <a href="https://www.credly.com/badges/0158f6a6-77ee-4e9e-82ad-e7c4a06c2eba/public_url" target="_blank">
+    <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" alt="CCNA: Introduction to Networks" height="200"/>
+  </a>
+  <a href="https://www.credly.com/badges/b57f95a7-40fc-4ee1-9fe3-abaa0e2b2fde/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/736b65a0-57da-4ba7-8c11-8fa7538505bb" alt="CCNA: Switching, Routing, and Wireless Essentials Certificate" height="200"/>
+  </a>
+</p>
 
 - **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
 - **CCNA: Introduction to Networks** — Cisco, 2026
