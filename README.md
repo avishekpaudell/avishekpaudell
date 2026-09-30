@@ -58,6 +58,10 @@ Building a strong foundation in networking, system administration, and cloud inf
   <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="150"/>
 </a>
 
+<a href="https://www.credly.com/badges/b57f95a7-40fc-4ee1-9fe3-abaa0e2b2fde/public_url" target="_blank">
+  <img src="https://github.com/user-attachments/assets/736b65a0-57da-4ba7-8c11-8fa7538505bb" alt="CCNA: Switching, Routing, and Wireless Essentials Certificate" width="400"/>
+</a>
+
 - **AWS Academy – Cloud Foundations** — Amazon Web Services, 2026
 - **CCNA: Introduction to Networks** — Cisco, 2026
 
